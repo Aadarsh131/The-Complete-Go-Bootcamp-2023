@@ -3,6 +3,8 @@
 // Go Playground: https://play.golang.org/p/_44csjQDJvM
 /////////////////////////////////
 
+//unbuffered channels are also sometimes called synchronous channels
+
 package main
 
 import (
